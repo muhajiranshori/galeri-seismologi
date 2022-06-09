@@ -1,4 +1,4 @@
- baseURL = "https://galeri-seismologi.com"
+ baseURL = "https://galeri-seismologi.netlify.app"
 languageCode = "en-us"
 title = "Galeri Seismologi"
 disablePathToLower = false
