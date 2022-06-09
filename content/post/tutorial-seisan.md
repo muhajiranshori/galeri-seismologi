@@ -1,7 +1,7 @@
 ---
 title: "Tutorial Seisan"
 date: 2022-04-18T11:30:56+07:00
-draft: false
+draft: true
 toc: true
 comments: true
 categories:

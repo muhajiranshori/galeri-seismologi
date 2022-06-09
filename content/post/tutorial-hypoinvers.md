@@ -1,7 +1,7 @@
 ---
 title: "Tutorial Hypoinvers"
 date: 2021-06-21T14:49:52+07:00
-draft: false
+draft: true
 toc: true
 comments: true
 categories:

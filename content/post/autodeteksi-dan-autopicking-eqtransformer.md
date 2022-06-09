@@ -1,7 +1,7 @@
 ---
 title: "Autodeteksi Dan Autopicking Eqtransformer"
 date: 2022-05-31T16:06:37+07:00
-draft: false
+draft: true
 toc: true
 comments: true
 categories:

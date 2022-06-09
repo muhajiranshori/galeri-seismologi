@@ -1,7 +1,7 @@
 ---
 title: "Tutorial Pyrocko"
 date: 2022-01-18T16:30:56+07:00
-draft: false
+draft: true
 toc: true
 comments: true
 categories:

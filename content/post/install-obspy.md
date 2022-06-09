@@ -1,6 +1,7 @@
 ---
 title: "Install Obspy"
 date: 2021-04-03T21:55:07+07:00
+draft: true
 toc: true
 comments: true
 categories:

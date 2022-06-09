@@ -1,7 +1,7 @@
 ---
 title: "Membuat Waveform Sintetis dengan QSEIS"
 date: 2022-01-28T17:10:28+07:00
-draft: false
+draft: true
 ---
 Waveform Sintetis, waveform buatan, waveform palsu, kira2 begitulah terjemahan bebasnya.
 

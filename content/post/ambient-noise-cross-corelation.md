@@ -1,7 +1,7 @@
 ---
 title: "Ambient Noise Cross Corelation"
 date: 2022-05-22T14:39:17+07:00
-draft: false
+draft: true
 comments: true
 categories:
 - ambient_noise_tomography

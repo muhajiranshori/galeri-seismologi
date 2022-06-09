@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning"
 date: 2022-06-03T11:05:13+07:00
-draft: false
+draft: true
 comments: true
 categories:
 - machine_learning

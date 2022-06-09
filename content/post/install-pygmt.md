@@ -1,7 +1,7 @@
 ---
 title: "Install pyGMT"
 date: 2021-09-18T17:30:16+07:00
-draft: false
+draft: true
 toc: true
 comments: true
 categories:

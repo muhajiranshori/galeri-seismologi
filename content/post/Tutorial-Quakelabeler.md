@@ -1,7 +1,7 @@
 ---
 title: "Tutorial Quakelabeler"
 date: 2022-05-16T04:34:54+07:00
-draft: false
+draft: true
 toc: true
 comments: true
 categories:

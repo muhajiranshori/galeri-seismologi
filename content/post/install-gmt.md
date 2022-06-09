@@ -1,7 +1,7 @@
 ---
 title: "Install Generic Mapping Tool (GMT)"
 date: 2020-02-15T15:00:54+07:00
-draft: false
+draft: true
 toc: true
 comments: true
 categories:

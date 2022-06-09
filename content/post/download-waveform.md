@@ -1,7 +1,7 @@
 ---
 title: "Download Waveform"
 date: 2022-02-14T17:07:26+07:00
-draft: false
+draft: true
 ---
 
 ## 1. Download Waveform melalui Webdc

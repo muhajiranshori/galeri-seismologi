@@ -1,7 +1,7 @@
 ---
 title: "Membuat Alias Pada Bashrc"
 date: 2021-07-02T17:11:12+07:00
-draft: false
+draft: true
 categories:
 - tips
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Waveform Alignment"
 date: 2021-12-28T17:08:16+07:00
-draft: false
+draft: true
 comments: true
 categories:
 - waveform_treatment

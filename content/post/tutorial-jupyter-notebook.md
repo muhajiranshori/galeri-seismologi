@@ -1,7 +1,7 @@
 ---
 title: "Tutorial Jupyter Notebook"
 date: 2020-01-04T14:42:01+07:00
-draft: false
+draft: true
 toc: true
 comments: true
 categories:
