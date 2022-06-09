@@ -12,5 +12,8 @@ tags:
 - windows
 - linux
 ---
-Pyrocko Sebastian Heimann
+Berikut adalah cara install Pyrocko
 
+```
+conda install -c pyrocko pyrocko
+```
