@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tomography on Galeri Seismologi</title>
+    <link>http://www.galeri-seismologi.com/categories/tomography/</link>
+    <description>Recent content in tomography on Galeri Seismologi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Apr 2022 17:14:18 +0700</lastBuildDate><atom:link href="http://www.galeri-seismologi.com/categories/tomography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tomografi Simulps12 Part 1: Data Preparation</title>
+      <link>http://www.galeri-seismologi.com/post/save-part/simulps12/tomografi-simulps12-part1-datapreparation/</link>
+      <pubDate>Mon, 25 Apr 2022 17:14:18 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/save-part/simulps12/tomografi-simulps12-part1-datapreparation/</guid>
+      <description>#1 Persiapan Data ( filter data katalog) Tahap awal dalam tomografi adalah persiapan data arrival time. Untuk menghasilkan data yang spesifik, perlu dilakukan filter pada data katalog berdasarkan beberapa paramter data yaitu :
+ polyrange Batas Koordinat daerah penelitian daterange Rentang periode data (Tangal/Bulan/Tahun) magrange Rentang magnitudo deprange Rentang kedalaman azrange Rentang azimuthal gap rmsrange Rentang rms residual cphrange Rentang jumlah fase  Langkah-Langkah Filter Data Katalog Filter data katalog dilakuan dengan menngunakan script Filter_Katalog.</description>
+    </item>
+    
+    <item>
+      <title>Tomografi Simulps12 Part 1: Data Preparation</title>
+      <link>http://www.galeri-seismologi.com/post/tomografi-simulps12/</link>
+      <pubDate>Mon, 25 Apr 2022 17:14:18 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/tomografi-simulps12/</guid>
+      <description>#1 Overview #2 Persiapan Data ( filter data katalog) Tahap awal dalam tomografi adalah persiapan data arrival time. Untuk menghasilkan data yang spesifik, perlu dilakukan filter pada data katalog berdasarkan beberapa paramter data yaitu :
+ polyrange Batas Koordinat daerah penelitian daterange Rentang periode data (Tangal/Bulan/Tahun) magrange Rentang magnitudo deprange Rentang kedalaman azrange Rentang azimuthal gap rmsrange Rentang rms residual cphrange Rentang jumlah fase  Langkah-Langkah Filter Data Katalog Filter data katalog dilakuan dengan menngunakan script Filter_Katalog.</description>
+    </item>
+    
+  </channel>
+</rss>

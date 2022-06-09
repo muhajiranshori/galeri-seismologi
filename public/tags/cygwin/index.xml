@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cygwin on Galeri Seismologi</title>
+    <link>http://www.galeri-seismologi.com/tags/cygwin/</link>
+    <description>Recent content in cygwin on Galeri Seismologi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Apr 2022 17:14:18 +0700</lastBuildDate><atom:link href="http://www.galeri-seismologi.com/tags/cygwin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tomografi Simulps12 Part 1: Data Preparation</title>
+      <link>http://www.galeri-seismologi.com/post/save-part/simulps12/tomografi-simulps12-part1-datapreparation/</link>
+      <pubDate>Mon, 25 Apr 2022 17:14:18 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/save-part/simulps12/tomografi-simulps12-part1-datapreparation/</guid>
+      <description>#1 Persiapan Data ( filter data katalog) Tahap awal dalam tomografi adalah persiapan data arrival time. Untuk menghasilkan data yang spesifik, perlu dilakukan filter pada data katalog berdasarkan beberapa paramter data yaitu :
+ polyrange Batas Koordinat daerah penelitian daterange Rentang periode data (Tangal/Bulan/Tahun) magrange Rentang magnitudo deprange Rentang kedalaman azrange Rentang azimuthal gap rmsrange Rentang rms residual cphrange Rentang jumlah fase  Langkah-Langkah Filter Data Katalog Filter data katalog dilakuan dengan menngunakan script Filter_Katalog.</description>
+    </item>
+    
+    <item>
+      <title>Tomografi Simulps12 Part 1: Data Preparation</title>
+      <link>http://www.galeri-seismologi.com/post/tomografi-simulps12/</link>
+      <pubDate>Mon, 25 Apr 2022 17:14:18 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/tomografi-simulps12/</guid>
+      <description>#1 Overview #2 Persiapan Data ( filter data katalog) Tahap awal dalam tomografi adalah persiapan data arrival time. Untuk menghasilkan data yang spesifik, perlu dilakukan filter pada data katalog berdasarkan beberapa paramter data yaitu :
+ polyrange Batas Koordinat daerah penelitian daterange Rentang periode data (Tangal/Bulan/Tahun) magrange Rentang magnitudo deprange Rentang kedalaman azrange Rentang azimuthal gap rmsrange Rentang rms residual cphrange Rentang jumlah fase  Langkah-Langkah Filter Data Katalog Filter data katalog dilakuan dengan menngunakan script Filter_Katalog.</description>
+    </item>
+    
+    <item>
+      <title>Relokasi Hypodd Part 4: Plot Hasil</title>
+      <link>http://www.galeri-seismologi.com/post/save-part/hypodd/relokasi-hypodd-part4-plot-hasil/</link>
+      <pubDate>Mon, 18 Apr 2022 08:47:28 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/save-part/hypodd/relokasi-hypodd-part4-plot-hasil/</guid>
+      <description>Membahas tutorial relokasi hiposenter menggunakan software HypoDD</description>
+    </item>
+    
+    <item>
+      <title>Relokasi Hypodd Part 3: Running HypoDD</title>
+      <link>http://www.galeri-seismologi.com/post/save-part/hypodd/relokasi-hypodd-part3-running-hypodd/</link>
+      <pubDate>Mon, 18 Apr 2022 08:44:33 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/save-part/hypodd/relokasi-hypodd-part3-running-hypodd/</guid>
+      <description>Running HypoDD  Tahapan ini adalah bagian inti dari relokasi hiposenter dengan Metode Double Difference yaitu running program HypoDD.  File yang harus dipersiapkan file di luar folder  station.dat berisi informasi stasiun yang digunakan. Jatim.pha berisi nilai travel time observasi yang dihasilkan dari tahap convert_data.  file di dalam folder ph2dt  ph2dt.inp berisi setting parameter ph2dt.exe program untuk menghitung bla bla bla  file di dalam folder hypoDD  hypoDD.</description>
+    </item>
+    
+    <item>
+      <title>Relokasi Hypodd Part 2: Convert Data</title>
+      <link>http://www.galeri-seismologi.com/post/save-part/hypodd/relokasi-hypodd-part2-convert-data/</link>
+      <pubDate>Sun, 17 Apr 2022 17:38:33 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/save-part/hypodd/relokasi-hypodd-part2-convert-data/</guid>
+      <description>Convert input data HypoDD Langkah-langkah konversi data input pada hypoDD.
+Langkah-langkah  Siapkan file Jatim.txt. File tersebut adalah hasil filter data sebagaimana dijelaskan langkah-langkahnya berikut Jalankan script cat2pha.py yang akan menghasilkan file Jatim.pha  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61  # jalankan skrip ini dengan komputer yg sudah terinstal python 2.</description>
+    </item>
+    
+    <item>
+      <title>Relokasi HypoDD Part 1: Data Preparation</title>
+      <link>http://www.galeri-seismologi.com/post/save-part/hypodd/relokasi-hypodd-part1-data-preparation/</link>
+      <pubDate>Sun, 17 Apr 2022 17:26:24 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/save-part/hypodd/relokasi-hypodd-part1-data-preparation/</guid>
+      <description>Relokasi-HypoDD Begian ini adalah pendahuluan untuk menampilkan daerah penelitian yaitu daerah Jawa Timur.
+ set path=C:\programs\GMT4\bin;%PATH% set F=Jatim.ps set R=109/116/-11.5/-4 set GU=GU.dat set seis=seis.dat set M=mainshock.dat set GA=GA.dat set ST=station.dat set A=volcano.dat set P=E:/Muhajir/GMT/topo_putih.cpt set NC=E:/Muhajir/GMT/srtm_15_indo.grd set NC1=E:/Muhajir/GMT/srtm_15_indo.grd.int set sesar=E:/Muhajir/GMT/sesar.gmt set sesar2=E:/Muhajir/GMT/sesar2.gmt set sesar=E:/Muhajir/GMT/hajir.gmt set sesar2=E:/Muhajir/GMT/sesar2.gmt set SA=SA.d set SB=SB.d set SC=SC.d set LA=lineA.d set LB=lineB.d set LC=lineC.d set EA1=111.7580000 set EA2=-6.00 set CA1=111.7580000 set CA2=-11.00 set EA=%EA1%/%EA2% set CA=%CA1%/%CA2% set EB1=112.</description>
+    </item>
+    
+    <item>
+      <title>Relokasi HypoDD</title>
+      <link>http://www.galeri-seismologi.com/post/relokasi_hypodd/</link>
+      <pubDate>Sun, 17 Apr 2022 17:21:25 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/relokasi_hypodd/</guid>
+      <description>Relokasi-HypoDD Begian ini adalah pendahuluan untuk menampilkan daerah penelitian yaitu daerah Jawa Timur.
+ set path=C:\programs\GMT4\bin;%PATH% set F=Jatim.ps set R=109/116/-11.5/-4 set GU=GU.dat set seis=seis.dat set M=mainshock.dat set GA=GA.dat set ST=station.dat set A=volcano.dat set P=E:/Muhajir/GMT/topo_putih.cpt set NC=E:/Muhajir/GMT/srtm_15_indo.grd set NC1=E:/Muhajir/GMT/srtm_15_indo.grd.int set sesar=E:/Muhajir/GMT/sesar.gmt set sesar2=E:/Muhajir/GMT/sesar2.gmt set sesar=E:/Muhajir/GMT/hajir.gmt set sesar2=E:/Muhajir/GMT/sesar2.gmt set SA=SA.d set SB=SB.d set SC=SC.d set LA=lineA.d set LB=lineB.d set LC=lineC.d set EA1=111.7580000 set EA2=-6.00 set CA1=111.7580000 set CA2=-11.00 set EA=%EA1%/%EA2% set CA=%CA1%/%CA2% set EB1=112.</description>
+    </item>
+    
+  </channel>
+</rss>

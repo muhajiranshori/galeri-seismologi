@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>installation on Galeri Seismologi</title>
+    <link>http://www.galeri-seismologi.com/categories/installation/</link>
+    <description>Recent content in installation on Galeri Seismologi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Apr 2022 14:42:01 +0700</lastBuildDate><atom:link href="http://www.galeri-seismologi.com/categories/installation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install Jupyter Notebook</title>
+      <link>http://www.galeri-seismologi.com/post/install-jupyter-notebook/</link>
+      <pubDate>Sun, 24 Apr 2022 14:42:01 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-jupyter-notebook/</guid>
+      <description>Jupyter notebook adalah cara lain untuk menjalanakan script beberapa pemograman terutama python.
+kali ini saya akan mencoba menginstall di os linux. bagi anda pengguna woindows silakan mencoba juga.
+cara install nya adalah
+conda install notebook  </description>
+    </item>
+    
+    <item>
+      <title>Install Obspy</title>
+      <link>http://www.galeri-seismologi.com/post/install-obspy/</link>
+      <pubDate>Sat, 23 Apr 2022 14:43:00 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-obspy/</guid>
+      <description>&lt;p&gt;Berikut adalah cara install obpsy&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;conda create -n obspy python=3.7
+conda activate obspy
+conda install obspy
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Install TauP</title>
+      <link>http://www.galeri-seismologi.com/post/install-taup/</link>
+      <pubDate>Sat, 23 Apr 2022 10:43:00 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-taup/</guid>
+      <description>&lt;p&gt;Berikut adalah cara install tauP&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Install Generic Mapping Tool (GMT)</title>
+      <link>http://www.galeri-seismologi.com/post/install-gmt/</link>
+      <pubDate>Wed, 20 Apr 2022 15:00:54 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-gmt/</guid>
+      <description>GMT adalah mapping tool terpopuler saat ini yang banyak digunakan oleh para peneliti.
+Berikut adalah cara instlla GMT.
+Terdapat beberapa versi GMT, kali ini saya akan tunjukkan GMT 4.</description>
+    </item>
+    
+    <item>
+      <title>Install pyGMT</title>
+      <link>http://www.galeri-seismologi.com/post/install-pygmt/</link>
+      <pubDate>Tue, 19 Apr 2022 17:30:16 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-pygmt/</guid>
+      <description>Beriku adalah cara install pyGMT
+1 2 3  conda create -n pyGMT python=3.7 conda activate pyGMT conda install pyGMT   Namun jika anda ingin meng-install pada env tertentu misal env eqtransformer, maka setelah anda selesai menginstall EQT maka :
+aktifkan EQT lalu install pyGMT
+1 2  conda activate eqtransformer conda install pyGMT   Nah sekarang, module pygmt sudah ada dalam eqt
+coba dengan perintah
+1  import pygmt   jika tidak muncul error, maka pygmt telah berhasil terinstall</description>
+    </item>
+    
+    <item>
+      <title>Install sac2mseed</title>
+      <link>http://www.galeri-seismologi.com/post/install-sac2mseed/</link>
+      <pubDate>Mon, 18 Apr 2022 20:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-sac2mseed/</guid>
+      <description>sac2mseed adalah asalah satu tool penting</description>
+    </item>
+    
+    <item>
+      <title>Install mseed2sac</title>
+      <link>http://www.galeri-seismologi.com/post/install-mseed2sac/</link>
+      <pubDate>Mon, 18 Apr 2022 19:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-mseed2sac/</guid>
+      <description>mseed2sac adalah asalah satu tool penting</description>
+    </item>
+    
+    <item>
+      <title>Install Seizmo</title>
+      <link>http://www.galeri-seismologi.com/post/install-seizmo/</link>
+      <pubDate>Mon, 18 Apr 2022 17:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-seizmo/</guid>
+      <description>Seizmo adalah program berbasis matlab yang dikenbangkan oleh Garreth Euler dari washington unoversity.
+Di dalamnya terkandung banyak sekali modul-modul untuk pengolahan waveform.
+Brikut adalah cara installasinya.</description>
+    </item>
+    
+    <item>
+      <title>Install SAC</title>
+      <link>http://www.galeri-seismologi.com/post/install-sac/</link>
+      <pubDate>Mon, 18 Apr 2022 17:25:45 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-sac/</guid>
+      <description>Berikut adalah cara install sac</description>
+    </item>
+    
+    <item>
+      <title>Install Pyrocko</title>
+      <link>http://www.galeri-seismologi.com/post/install-pyrocko/</link>
+      <pubDate>Mon, 18 Apr 2022 16:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-pyrocko/</guid>
+      <description>Pyrocko Sebastian Heimann</description>
+    </item>
+    
+    <item>
+      <title>Install EQTransformer</title>
+      <link>http://www.galeri-seismologi.com/post/install-eqtransformer/</link>
+      <pubDate>Mon, 18 Apr 2022 13:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-eqtransformer/</guid>
+      <description>EQTransformer</description>
+    </item>
+    
+    <item>
+      <title>Install EQcorrscan</title>
+      <link>http://www.galeri-seismologi.com/post/install-eqcorrscan/</link>
+      <pubDate>Mon, 18 Apr 2022 12:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-eqcorrscan/</guid>
+      <description>Seizmo adalah program berbasis matlab yang dikenbangkan oleh Garreth Euler dari washington unoversity.
+Di dalamnya terkandung banyak sekali modul-modul untuk pengolahan waveform.
+Brikut adalah cara installasinya.</description>
+    </item>
+    
+    <item>
+      <title>Install Seisan</title>
+      <link>http://www.galeri-seismologi.com/post/install-seisan/</link>
+      <pubDate>Mon, 18 Apr 2022 11:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-seisan/</guid>
+      <description>Seisan adalah software yang dikembangkan oleh swiss university</description>
+    </item>
+    
+    <item>
+      <title>Install miniconda</title>
+      <link>http://www.galeri-seismologi.com/post/install-miniconda/</link>
+      <pubDate>Mon, 18 Apr 2022 10:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-miniconda/</guid>
+      <description>Miniconda</description>
+    </item>
+    
+  </channel>
+</rss>

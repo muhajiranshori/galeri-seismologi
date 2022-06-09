@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>metadata on Galeri Seismologi</title>
+    <link>http://www.galeri-seismologi.com/categories/metadata/</link>
+    <description>Recent content in metadata on Galeri Seismologi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Apr 2022 11:38:31 +0700</lastBuildDate><atom:link href="http://www.galeri-seismologi.com/categories/metadata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Convert Metadata</title>
+      <link>http://www.galeri-seismologi.com/post/convert-metadata/</link>
+      <pubDate>Mon, 18 Apr 2022 11:38:31 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/convert-metadata/</guid>
+      <description>Convert-Metadata Membahas tentang cara merubah format metadata waveform dari xml menjadi dataless
+Data seismik yang sering digunakan dalam seismologi adalah berformat seed (Stardard for the Exchange of Earthquake Data). Data seed bersifat praktis dan mudah digunakan dalam banyak penelitian seismologi. Data ini memiliki struktur sederhana yaitu berisi data time series sinyal berikut informasi metadata-nya. Metadata merupakan informasi penting yang mendeskripsikan data time series diantaranya pewaktuan, network, channel, komponen (horizontal dan vertikal), koordinat stasiun dan lain-lain.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>waveform_treatment on Galeri Seismologi</title>
+    <link>http://www.galeri-seismologi.com/categories/waveform_treatment/</link>
+    <description>Recent content in waveform_treatment on Galeri Seismologi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Apr 2022 14:43:00 +0700</lastBuildDate><atom:link href="http://www.galeri-seismologi.com/categories/waveform_treatment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install Obspy</title>
+      <link>http://www.galeri-seismologi.com/post/install-obspy/</link>
+      <pubDate>Sat, 23 Apr 2022 14:43:00 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-obspy/</guid>
+      <description>&lt;p&gt;Berikut adalah cara install obpsy&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;conda create -n obspy python=3.7
+conda activate obspy
+conda install obspy
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Install TauP</title>
+      <link>http://www.galeri-seismologi.com/post/install-taup/</link>
+      <pubDate>Sat, 23 Apr 2022 10:43:00 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-taup/</guid>
+      <description>&lt;p&gt;Berikut adalah cara install tauP&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Install sac2mseed</title>
+      <link>http://www.galeri-seismologi.com/post/install-sac2mseed/</link>
+      <pubDate>Mon, 18 Apr 2022 20:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-sac2mseed/</guid>
+      <description>sac2mseed adalah asalah satu tool penting</description>
+    </item>
+    
+    <item>
+      <title>Install mseed2sac</title>
+      <link>http://www.galeri-seismologi.com/post/install-mseed2sac/</link>
+      <pubDate>Mon, 18 Apr 2022 19:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-mseed2sac/</guid>
+      <description>mseed2sac adalah asalah satu tool penting</description>
+    </item>
+    
+    <item>
+      <title>Install Seizmo</title>
+      <link>http://www.galeri-seismologi.com/post/install-seizmo/</link>
+      <pubDate>Mon, 18 Apr 2022 17:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-seizmo/</guid>
+      <description>Seizmo adalah program berbasis matlab yang dikenbangkan oleh Garreth Euler dari washington unoversity.
+Di dalamnya terkandung banyak sekali modul-modul untuk pengolahan waveform.
+Brikut adalah cara installasinya.</description>
+    </item>
+    
+    <item>
+      <title>Install SAC</title>
+      <link>http://www.galeri-seismologi.com/post/install-sac/</link>
+      <pubDate>Mon, 18 Apr 2022 17:25:45 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-sac/</guid>
+      <description>Berikut adalah cara install sac</description>
+    </item>
+    
+    <item>
+      <title>Install Pyrocko</title>
+      <link>http://www.galeri-seismologi.com/post/install-pyrocko/</link>
+      <pubDate>Mon, 18 Apr 2022 16:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-pyrocko/</guid>
+      <description>Pyrocko Sebastian Heimann</description>
+    </item>
+    
+    <item>
+      <title>Convert Metadata</title>
+      <link>http://www.galeri-seismologi.com/post/convert-metadata/</link>
+      <pubDate>Mon, 18 Apr 2022 11:38:31 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/convert-metadata/</guid>
+      <description>Convert-Metadata Membahas tentang cara merubah format metadata waveform dari xml menjadi dataless
+Data seismik yang sering digunakan dalam seismologi adalah berformat seed (Stardard for the Exchange of Earthquake Data). Data seed bersifat praktis dan mudah digunakan dalam banyak penelitian seismologi. Data ini memiliki struktur sederhana yaitu berisi data time series sinyal berikut informasi metadata-nya. Metadata merupakan informasi penting yang mendeskripsikan data time series diantaranya pewaktuan, network, channel, komponen (horizontal dan vertikal), koordinat stasiun dan lain-lain.</description>
+    </item>
+    
+    <item>
+      <title>Install Seisan</title>
+      <link>http://www.galeri-seismologi.com/post/install-seisan/</link>
+      <pubDate>Mon, 18 Apr 2022 11:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-seisan/</guid>
+      <description>Seisan adalah software yang dikembangkan oleh swiss university</description>
+    </item>
+    
+  </channel>
+</rss>

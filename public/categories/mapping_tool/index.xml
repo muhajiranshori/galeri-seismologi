@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>mapping_tool on Galeri Seismologi</title>
+    <link>http://www.galeri-seismologi.com/categories/mapping_tool/</link>
+    <description>Recent content in mapping_tool on Galeri Seismologi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2022 15:00:54 +0700</lastBuildDate><atom:link href="http://www.galeri-seismologi.com/categories/mapping_tool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install Generic Mapping Tool (GMT)</title>
+      <link>http://www.galeri-seismologi.com/post/install-gmt/</link>
+      <pubDate>Wed, 20 Apr 2022 15:00:54 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-gmt/</guid>
+      <description>GMT adalah mapping tool terpopuler saat ini yang banyak digunakan oleh para peneliti.
+Berikut adalah cara instlla GMT.
+Terdapat beberapa versi GMT, kali ini saya akan tunjukkan GMT 4.</description>
+    </item>
+    
+    <item>
+      <title>Install pyGMT</title>
+      <link>http://www.galeri-seismologi.com/post/install-pygmt/</link>
+      <pubDate>Tue, 19 Apr 2022 17:30:16 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-pygmt/</guid>
+      <description>Beriku adalah cara install pyGMT
+1 2 3  conda create -n pyGMT python=3.7 conda activate pyGMT conda install pyGMT   Namun jika anda ingin meng-install pada env tertentu misal env eqtransformer, maka setelah anda selesai menginstall EQT maka :
+aktifkan EQT lalu install pyGMT
+1 2  conda activate eqtransformer conda install pyGMT   Nah sekarang, module pygmt sudah ada dalam eqt
+coba dengan perintah
+1  import pygmt   jika tidak muncul error, maka pygmt telah berhasil terinstall</description>
+    </item>
+    
+  </channel>
+</rss>

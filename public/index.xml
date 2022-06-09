@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Galeri Seismologi</title>
+    <link>http://www.galeri-seismologi.com/</link>
+    <description>Recent content on Galeri Seismologi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Apr 2022 09:31:46 +0700</lastBuildDate><atom:link href="http://www.galeri-seismologi.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://www.galeri-seismologi.com/post/hello-world/</link>
+      <pubDate>Fri, 29 Apr 2022 09:31:46 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/hello-world/</guid>
+      <description>Halo semua, ini adalah postingan pertama saya. Selamat datang di Galeri Seismologi, sebuah media untuk saling berbagi dan berdiskusi seputar dunia seismologi.
+Bagi anda mahasiswa ilmu kebumian, akademisi, praktisi kegempaan atau siapapun yang cinta dengan bidang ini, mari bergabung dan belajar bersama.
+Catatan-catatan ini saya tulis sebagai sebuah dokumentasi proses belajar yang saya lakukan dan semoga dapat bermanfaat bagi kita semua
+Salam</description>
+    </item>
+    
+    <item>
+      <title>Tomografi Simulps12 Part 1: Data Preparation</title>
+      <link>http://www.galeri-seismologi.com/post/save-part/simulps12/tomografi-simulps12-part1-datapreparation/</link>
+      <pubDate>Mon, 25 Apr 2022 17:14:18 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/save-part/simulps12/tomografi-simulps12-part1-datapreparation/</guid>
+      <description>#1 Persiapan Data ( filter data katalog) Tahap awal dalam tomografi adalah persiapan data arrival time. Untuk menghasilkan data yang spesifik, perlu dilakukan filter pada data katalog berdasarkan beberapa paramter data yaitu :
+ polyrange Batas Koordinat daerah penelitian daterange Rentang periode data (Tangal/Bulan/Tahun) magrange Rentang magnitudo deprange Rentang kedalaman azrange Rentang azimuthal gap rmsrange Rentang rms residual cphrange Rentang jumlah fase  Langkah-Langkah Filter Data Katalog Filter data katalog dilakuan dengan menngunakan script Filter_Katalog.</description>
+    </item>
+    
+    <item>
+      <title>Tomografi Simulps12 Part 1: Data Preparation</title>
+      <link>http://www.galeri-seismologi.com/post/tomografi-simulps12/</link>
+      <pubDate>Mon, 25 Apr 2022 17:14:18 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/tomografi-simulps12/</guid>
+      <description>#1 Overview #2 Persiapan Data ( filter data katalog) Tahap awal dalam tomografi adalah persiapan data arrival time. Untuk menghasilkan data yang spesifik, perlu dilakukan filter pada data katalog berdasarkan beberapa paramter data yaitu :
+ polyrange Batas Koordinat daerah penelitian daterange Rentang periode data (Tangal/Bulan/Tahun) magrange Rentang magnitudo deprange Rentang kedalaman azrange Rentang azimuthal gap rmsrange Rentang rms residual cphrange Rentang jumlah fase  Langkah-Langkah Filter Data Katalog Filter data katalog dilakuan dengan menngunakan script Filter_Katalog.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial Hypoinvers</title>
+      <link>http://www.galeri-seismologi.com/post/tutorial-hypoinvers/</link>
+      <pubDate>Sun, 24 Apr 2022 14:49:52 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/tutorial-hypoinvers/</guid>
+      <description>&lt;p&gt;Hypoellipse adalah program untuk menentukan &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tutorial Hypoellipse</title>
+      <link>http://www.galeri-seismologi.com/post/tutorial-hypoellipse/</link>
+      <pubDate>Sun, 24 Apr 2022 14:46:52 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/tutorial-hypoellipse/</guid>
+      <description>&lt;p&gt;Hypoellipse adalah program untuk menentukan &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Install Jupyter Notebook</title>
+      <link>http://www.galeri-seismologi.com/post/install-jupyter-notebook/</link>
+      <pubDate>Sun, 24 Apr 2022 14:42:01 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-jupyter-notebook/</guid>
+      <description>Jupyter notebook adalah cara lain untuk menjalanakan script beberapa pemograman terutama python.
+kali ini saya akan mencoba menginstall di os linux. bagi anda pengguna woindows silakan mencoba juga.
+cara install nya adalah
+conda install notebook  </description>
+    </item>
+    
+    <item>
+      <title>Install Obspy</title>
+      <link>http://www.galeri-seismologi.com/post/install-obspy/</link>
+      <pubDate>Sat, 23 Apr 2022 14:43:00 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-obspy/</guid>
+      <description>&lt;p&gt;Berikut adalah cara install obpsy&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;conda create -n obspy python=3.7
+conda activate obspy
+conda install obspy
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Galeri Seismologi</title>
+      <link>http://www.galeri-seismologi.com/post/galeri_seismologi/</link>
+      <pubDate>Sat, 23 Apr 2022 11:35:10 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/galeri_seismologi/</guid>
+      <description>Galeri-Seismologi Merupakan media untuk berbagi dan berdiskusi banyak hal terkait seismologi seperti relokasi hiposenter, tomografi seismik dan pengolahan waveform.
+Content   Hypoellipse
+ Daerah Penelitian Convert Data Running Hypoelipse [Running Hypoellipse Multi Event] [Plot Result]    Relokasi-Velest
+ Daerah Penelitian Convert Data Running Velest [Plot Result]    Relokasi-HypoDD
+ Daerah Penelitian Convert Data Running HypoDD [Plot Result]    Relokasi-MJHD
+  Tomografi-Simulps12
+ Filter Katalog Convert Data Grid Node Running Simulps12 Ray Tracing [Plot Relocated Earthuqake] [Plot Tomogram] [Checkerboard Test]    Waveform-Treatment</description>
+    </item>
+    
+    <item>
+      <title>Install TauP</title>
+      <link>http://www.galeri-seismologi.com/post/install-taup/</link>
+      <pubDate>Sat, 23 Apr 2022 10:43:00 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-taup/</guid>
+      <description>&lt;p&gt;Berikut adalah cara install tauP&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Relokasi Velest Part 4 Plot Result</title>
+      <link>http://www.galeri-seismologi.com/post/save-part/velest/relokasi-velest-part4-plot-result/</link>
+      <pubDate>Fri, 22 Apr 2022 20:36:27 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/save-part/velest/relokasi-velest-part4-plot-result/</guid>
+      <description>&lt;p&gt;Berisi tutorial melakukan relokasi hiposenter gempabumi menggunakan software Velest&lt;/p&gt;
+&lt;p&gt;#&lt;img loading=&#34;lazy&#34; src=&#34;https://user-images.githubusercontent.com/28419810/108987074-72b48480-76c5-11eb-9614-93cdd540031c&#34; alt=&#34;Palu_awal&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;#&lt;img loading=&#34;lazy&#34; src=&#34;https://user-images.githubusercontent.com/28419810/108987090-7942fc00-76c5-11eb-9ee7-7d81d968ac46&#34; alt=&#34;Palu_final&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Install Generic Mapping Tool (GMT)</title>
+      <link>http://www.galeri-seismologi.com/post/install-gmt/</link>
+      <pubDate>Wed, 20 Apr 2022 15:00:54 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-gmt/</guid>
+      <description>GMT adalah mapping tool terpopuler saat ini yang banyak digunakan oleh para peneliti.
+Berikut adalah cara instlla GMT.
+Terdapat beberapa versi GMT, kali ini saya akan tunjukkan GMT 4.</description>
+    </item>
+    
+    <item>
+      <title>Install pyGMT</title>
+      <link>http://www.galeri-seismologi.com/post/install-pygmt/</link>
+      <pubDate>Tue, 19 Apr 2022 17:30:16 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-pygmt/</guid>
+      <description>Beriku adalah cara install pyGMT
+1 2 3  conda create -n pyGMT python=3.7 conda activate pyGMT conda install pyGMT   Namun jika anda ingin meng-install pada env tertentu misal env eqtransformer, maka setelah anda selesai menginstall EQT maka :
+aktifkan EQT lalu install pyGMT
+1 2  conda activate eqtransformer conda install pyGMT   Nah sekarang, module pygmt sudah ada dalam eqt
+coba dengan perintah
+1  import pygmt   jika tidak muncul error, maka pygmt telah berhasil terinstall</description>
+    </item>
+    
+    <item>
+      <title>Install sac2mseed</title>
+      <link>http://www.galeri-seismologi.com/post/install-sac2mseed/</link>
+      <pubDate>Mon, 18 Apr 2022 20:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-sac2mseed/</guid>
+      <description>sac2mseed adalah asalah satu tool penting</description>
+    </item>
+    
+    <item>
+      <title>Install mseed2sac</title>
+      <link>http://www.galeri-seismologi.com/post/install-mseed2sac/</link>
+      <pubDate>Mon, 18 Apr 2022 19:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-mseed2sac/</guid>
+      <description>mseed2sac adalah asalah satu tool penting</description>
+    </item>
+    
+    <item>
+      <title>Install Seizmo</title>
+      <link>http://www.galeri-seismologi.com/post/install-seizmo/</link>
+      <pubDate>Mon, 18 Apr 2022 17:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-seizmo/</guid>
+      <description>Seizmo adalah program berbasis matlab yang dikenbangkan oleh Garreth Euler dari washington unoversity.
+Di dalamnya terkandung banyak sekali modul-modul untuk pengolahan waveform.
+Brikut adalah cara installasinya.</description>
+    </item>
+    
+    <item>
+      <title>Install SAC</title>
+      <link>http://www.galeri-seismologi.com/post/install-sac/</link>
+      <pubDate>Mon, 18 Apr 2022 17:25:45 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-sac/</guid>
+      <description>Berikut adalah cara install sac</description>
+    </item>
+    
+    <item>
+      <title>Install Pyrocko</title>
+      <link>http://www.galeri-seismologi.com/post/install-pyrocko/</link>
+      <pubDate>Mon, 18 Apr 2022 16:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-pyrocko/</guid>
+      <description>Pyrocko Sebastian Heimann</description>
+    </item>
+    
+    <item>
+      <title>Install EQTransformer</title>
+      <link>http://www.galeri-seismologi.com/post/install-eqtransformer/</link>
+      <pubDate>Mon, 18 Apr 2022 13:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-eqtransformer/</guid>
+      <description>EQTransformer</description>
+    </item>
+    
+    <item>
+      <title>Install EQcorrscan</title>
+      <link>http://www.galeri-seismologi.com/post/install-eqcorrscan/</link>
+      <pubDate>Mon, 18 Apr 2022 12:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-eqcorrscan/</guid>
+      <description>Seizmo adalah program berbasis matlab yang dikenbangkan oleh Garreth Euler dari washington unoversity.
+Di dalamnya terkandung banyak sekali modul-modul untuk pengolahan waveform.
+Brikut adalah cara installasinya.</description>
+    </item>
+    
+    <item>
+      <title>Convert Metadata</title>
+      <link>http://www.galeri-seismologi.com/post/convert-metadata/</link>
+      <pubDate>Mon, 18 Apr 2022 11:38:31 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/convert-metadata/</guid>
+      <description>Convert-Metadata Membahas tentang cara merubah format metadata waveform dari xml menjadi dataless
+Data seismik yang sering digunakan dalam seismologi adalah berformat seed (Stardard for the Exchange of Earthquake Data). Data seed bersifat praktis dan mudah digunakan dalam banyak penelitian seismologi. Data ini memiliki struktur sederhana yaitu berisi data time series sinyal berikut informasi metadata-nya. Metadata merupakan informasi penting yang mendeskripsikan data time series diantaranya pewaktuan, network, channel, komponen (horizontal dan vertikal), koordinat stasiun dan lain-lain.</description>
+    </item>
+    
+    <item>
+      <title>Install Seisan</title>
+      <link>http://www.galeri-seismologi.com/post/install-seisan/</link>
+      <pubDate>Mon, 18 Apr 2022 11:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-seisan/</guid>
+      <description>Seisan adalah software yang dikembangkan oleh swiss university</description>
+    </item>
+    
+    <item>
+      <title>Relokasi Velest Part 3: Running Velest</title>
+      <link>http://www.galeri-seismologi.com/post/save-part/velest/relokasi-velest-part3-running-velest/</link>
+      <pubDate>Mon, 18 Apr 2022 11:30:18 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/save-part/velest/relokasi-velest-part3-running-velest/</guid>
+      <description>Running Velest  Tahapan ini kita akan belajar cara mengoperasikan program velest.  File yang harus dipersiapkan  AK135.mod berisi nilai kecepatan seismik 1-D sebagai nilai kecepatan awal Palu.cnv berisi nilai travel time observasi hasil konversi pada tahap sebelumnya Palu.sta berisi data stasiun yang digunakan velest program velest untuk relokasi hiposenter ( dijalankan under Linux) velest.cmn berisi setting parameter. Nama file input dan output didefinisikan pada file tersebut.  Langkah-langkah-langkah  Siapkan file-file yang telah disebutkan di atas Buka terminal linux lalu masuk ke dalam folder Relokasi-Velest/&amp;quot;[3] Velest&amp;quot;/ Jalan program velest dengan perintah  1  .</description>
+    </item>
+    
+    <item>
+      <title>Relokasi Velest Part 2: Convert Data</title>
+      <link>http://www.galeri-seismologi.com/post/save-part/velest/relokasi-velest-part2-convert-data/</link>
+      <pubDate>Mon, 18 Apr 2022 11:28:50 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/save-part/velest/relokasi-velest-part2-convert-data/</guid>
+      <description>Convert input data velest Langkah-langkah konversi data input pada velest serupa dengan simulps12 namun ada sedikit perbedaan.
+Langkah-langkah  Siapkan file Palu.txt. File tersebut adalah hasil filter data sebagaimana dijelaskan langkah-langkahnya berikut Jalankan script cat2event.py dan cat2pha.py dimana masing-masing akan menghasilkan file cat_event_Palu.dat dan Palu.pha  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44   # jalankan skrip ini dengan komputer yg sudah terinstal python 2.</description>
+    </item>
+    
+    <item>
+      <title>Install miniconda</title>
+      <link>http://www.galeri-seismologi.com/post/install-miniconda/</link>
+      <pubDate>Mon, 18 Apr 2022 10:30:56 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/install-miniconda/</guid>
+      <description>Miniconda</description>
+    </item>
+    
+    <item>
+      <title>Relokasi Velest Part 1: Data Preparation</title>
+      <link>http://www.galeri-seismologi.com/post/save-part/velest/relokasi-velest-part1-data-preparation/</link>
+      <pubDate>Mon, 18 Apr 2022 08:55:28 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/save-part/velest/relokasi-velest-part1-data-preparation/</guid>
+      <description>Relokasi-Velest Begian ini adalah pendahuluan untuk menampilkan daerah penelitian yaitu daerah Palu Sulawesi Tengah dimana pada tanggal 28 September 2018 telah terjadi gempabumi dengan Mw 7.1 serta menimbulkan tsunami dan liquifaksi yang menlan ribuan korban jiwa.
+Beberapa bagian pada tutorial selalu di awali dengan filter data karena agar lebih praktis kita menyediakan sebuah data arrival time secara utuh untuk kegempaan seluruh indonesia yang kemudian akan di filter berdasarkan area penelitian tertentu.</description>
+    </item>
+    
+    <item>
+      <title>Relokasi_velest</title>
+      <link>http://www.galeri-seismologi.com/post/relokasi_velest/</link>
+      <pubDate>Mon, 18 Apr 2022 08:51:33 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/relokasi_velest/</guid>
+      <description>&lt;h1 id=&#34;relokasi-velest&#34;&gt;Relokasi-Velest&lt;/h1&gt;
+&lt;p&gt;Begian ini adalah pendahuluan untuk menampilkan daerah penelitian yaitu daerah Palu Sulawesi Tengah dimana pada tanggal 28 September 2018 telah terjadi gempabumi dengan Mw 7.1 serta menimbulkan tsunami dan liquifaksi yang menlan ribuan korban jiwa.&lt;/p&gt;
+&lt;p&gt;Beberapa bagian pada tutorial selalu di awali dengan filter data karena agar lebih praktis kita menyediakan sebuah data arrival time secara utuh untuk kegempaan seluruh indonesia yang kemudian akan di filter berdasarkan area penelitian tertentu.&lt;/p&gt;
+&lt;h4 id=&#34;berikut-adala-tampilan-setelah-kita-menjalankan-script-research_areabat&#34;&gt;Berikut adala tampilan setelah kita menjalankan script &lt;code&gt;Research_Area.bat&lt;/code&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://user-images.githubusercontent.com/28419810/164952428-3f499c8a-244f-4440-97df-8de974063b2e.png&#34; alt=&#34;Palu&#34;  /&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;keterangan&#34;&gt;Keterangan&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Bintang warna merah&lt;/code&gt; adalah episenter gempabumi utama Mw 7.1, 28 September 2018&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Segitiga tebalik warna kuning&lt;/code&gt; adalah stasiun yang digunakan dalam penelitian&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Garis warna biru dengan label huruf&lt;/code&gt; adalah garis cross-section dimana irisan seismisitas akan di tampilkan&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Segitiga warna merah&lt;/code&gt; adalah gunung api&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Garis merah&lt;/code&gt; adalah sesar&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Bathymetri&lt;/code&gt; yang digunakakan adalah srtm_15&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;relokasi-velest-1&#34;&gt;Relokasi-Velest&lt;/h1&gt;
+&lt;p&gt;Berisi tutorial melakukan relokasi hiposenter gempabumi menggunakan software Velest&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Data yang digunakan adalah data arrival time repository gempabumi BMKG tahun 2018.&lt;/li&gt;
+&lt;li&gt;Kasus yang digunakan adalah gempabumi Palu 2018.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;software-software-yang-digunakan-yaitu-&#34;&gt;Software-software yang digunakan yaitu :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt; dan &lt;code&gt;Matlab&lt;/code&gt; Untuk konversi format data&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.generic-mapping-tools.org/&#34;&gt;GMT&lt;/a&gt; Untuk visualisasi hasil  (tutorial ini menggunakan GMT4)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Velest&lt;/code&gt; Program utama relokasi hiposenter&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://notepad-plus-plus.org/downloads/&#34;&gt;Notepad++&lt;/a&gt; Untuk menampilkan meng-edit script maupun hasil program. Dapat juga menggunaakan text editor lain sesuai keinginan&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Virtual Box&lt;/code&gt; yang berisi &lt;code&gt;Linux Ubuntu 12 LTS&lt;/code&gt; Untuk menjalankan program velest&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;langkah-langkah-&#34;&gt;Langkah-langkah :&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/muhajiranshori/Relokasi-Velest/tree/main/%5B1%5D%20Research%20Area&#34;&gt;Filter Data&lt;/a&gt; Tahap pendahuluan untuk menampilkan peta daerah penelitian&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/muhajiranshori/Relokasi-Velest/tree/main/%5B2%5D%20Convert%20Data&#34;&gt;Convert Data&lt;/a&gt; berisi tentang cara konversi format data menjadi format input velest&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/muhajiranshori/Relokasi-Velest/tree/main/%5B3%5D%20Velest&#34;&gt;Velest&lt;/a&gt; berisi tentang cara menjalankan program Velest&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/muhajiranshori/Relokasi-Velest/tree/main/%5B4%5D%20Plot%20Relocated%20EQ&#34;&gt;Plot Relocated EQ&lt;/a&gt; berisi tentang cara melakukan plotting hiposenter hasil relokasi&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/muhajiranshori/Relokasi-Velest/tree/main/%5B5%5D%20Plot%20Residuals&#34;&gt;Plot Residuals&lt;/a&gt; berisi tentang cara melakukan plotting residual yaitu nilai selisih antara travel time observasi dan teoritis&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/muhajiranshori/Relokasi-Velest/tree/main/%5B6%5D%20Plot%201-D%20Velocity%20Model&#34;&gt;Plot 1-D Velocity Model&lt;/a&gt;berisi tentang cara melakukan plotting hasil pemodelan kecepatan 1-D&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/muhajiranshori/Relokasi-Velest/tree/main/%5B7%5D%20Vektor%20Pergeseran%20Hiposenter&#34;&gt;Plot Vektor Pergeseran&lt;/a&gt; berisi tentang cara melakukan plotting vektor pergeseran hiposenter antara sebelum dan sesudah relokasi&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Untuk dapat menjalankan tutorial ini dengan baik maka persiapkan dan install terlebih dahulu beberapa software pendukung.&lt;/p&gt;
+&lt;h1 id=&#34;convert-input-data-velest&#34;&gt;Convert input data velest&lt;/h1&gt;
+&lt;p&gt;Langkah-langkah konversi data input pada velest serupa dengan simulps12 namun ada sedikit perbedaan.&lt;/p&gt;
+&lt;h1 id=&#34;langkah-langkah&#34;&gt;Langkah-langkah&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Siapkan file &lt;code&gt;Palu.txt&lt;/code&gt;. File tersebut adalah hasil filter data sebagaimana dijelaskan langkah-langkahnya  &lt;a href=&#34;https://github.com/muhajiranshori/Tomografi-Simulps12/tree/main/%5B1%5D%20Filer%20Katalog&#34;&gt;berikut&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jalankan script &lt;code&gt;cat2event.py&lt;/code&gt; dan &lt;code&gt;cat2pha.py&lt;/code&gt; dimana masing-masing akan menghasilkan file &lt;code&gt;cat_event_Palu.dat&lt;/code&gt; dan &lt;code&gt;Palu.pha&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;
+&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-1&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-1&#34;&gt; 1&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-2&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-2&#34;&gt; 2&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-3&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-3&#34;&gt; 3&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-4&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-4&#34;&gt; 4&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-5&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-5&#34;&gt; 5&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-6&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-6&#34;&gt; 6&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-7&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-7&#34;&gt; 7&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-8&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-8&#34;&gt; 8&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-9&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-9&#34;&gt; 9&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-10&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-10&#34;&gt;10&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-11&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-11&#34;&gt;11&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-12&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-12&#34;&gt;12&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-13&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-13&#34;&gt;13&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-14&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-14&#34;&gt;14&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-15&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-15&#34;&gt;15&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-16&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-16&#34;&gt;16&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-17&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-17&#34;&gt;17&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-18&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-18&#34;&gt;18&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-19&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-19&#34;&gt;19&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-20&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-20&#34;&gt;20&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-21&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-21&#34;&gt;21&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-22&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-22&#34;&gt;22&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-23&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-23&#34;&gt;23&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-24&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-24&#34;&gt;24&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-25&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-25&#34;&gt;25&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-26&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-26&#34;&gt;26&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-27&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-27&#34;&gt;27&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-28&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-28&#34;&gt;28&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-29&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-29&#34;&gt;29&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-30&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-30&#34;&gt;30&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-31&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-31&#34;&gt;31&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-32&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-32&#34;&gt;32&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-33&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-33&#34;&gt;33&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-34&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-34&#34;&gt;34&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-35&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-35&#34;&gt;35&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-36&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-36&#34;&gt;36&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-37&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-37&#34;&gt;37&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-38&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-38&#34;&gt;38&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-39&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-39&#34;&gt;39&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-40&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-40&#34;&gt;40&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-41&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-41&#34;&gt;41&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-42&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-42&#34;&gt;42&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-43&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-43&#34;&gt;43&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-0-44&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-0-44&#34;&gt;44&lt;/a&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#007f7f&#34;&gt;# jalankan skrip ini dengan komputer yg sudah terinstal python 2.x.x&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#007f7f&#34;&gt;# skrip ini digunakan untuk mengkonversi data buletin BMKG menjadi data input hypodd&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#007f7f&#34;&gt;# isi nama file input dan output&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  fileinput = &lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;Palu.txt&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  fileoutput = &lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;cat_event_Palu.dat&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#007f7f&#34;&gt;# baca isi file input dan buka file output&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  file = &lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;open&lt;/span&gt;(fileinput,&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;r&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  baris = file.readlines()
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;for&lt;/span&gt; i in &lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;range&lt;/span&gt;(&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;len&lt;/span&gt;(baris)):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  	baris[i]=baris[i].split()
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  file.close()
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  file = &lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;open&lt;/span&gt;(fileoutput,&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;w&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#007f7f&#34;&gt;# catat tiap baris file input ke file output&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  i = &lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;0&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  event =&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;0&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;while&lt;/span&gt; i &amp;lt; &lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;len&lt;/span&gt;(baris):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  	&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;len&lt;/span&gt;(baris[i])&amp;gt;&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;0&lt;/span&gt; and baris[i][&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;0&lt;/span&gt;]==&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;Origin:&amp;#39;&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  		event = event+&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  		eventid = baris[i+&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;1&lt;/span&gt;][&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;2&lt;/span&gt;][&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;3&lt;/span&gt;::]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  		tahun = baris[i+&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;2&lt;/span&gt;][&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;1&lt;/span&gt;].split(&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;-&amp;#39;&lt;/span&gt;)[&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;0&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  		bulan = baris[i+&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;2&lt;/span&gt;][&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;1&lt;/span&gt;].split(&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;-&amp;#39;&lt;/span&gt;)[&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;1&lt;/span&gt;].zfill(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;2&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  		tanggal = baris[i+&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;2&lt;/span&gt;][&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;1&lt;/span&gt;].split(&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;-&amp;#39;&lt;/span&gt;)[&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;2&lt;/span&gt;].zfill(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;2&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  		jam = baris[i+&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;3&lt;/span&gt;][&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;1&lt;/span&gt;].split(&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;:&amp;#39;&lt;/span&gt;)[&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;0&lt;/span&gt;].zfill(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;2&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  		menit = baris[i+&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;3&lt;/span&gt;][&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;1&lt;/span&gt;].split(&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;:&amp;#39;&lt;/span&gt;)[&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;1&lt;/span&gt;].zfill(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;2&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  		detik = ((&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;%.1f&lt;/span&gt;&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;&lt;/span&gt;)%&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;float&lt;/span&gt;(baris[i+&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;3&lt;/span&gt;][&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;1&lt;/span&gt;].split(&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;:&amp;#39;&lt;/span&gt;)[&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;2&lt;/span&gt;])).zfill(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;4&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  		lintang = ((&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;%.2f&lt;/span&gt;&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;&lt;/span&gt;)%&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;float&lt;/span&gt;(baris[i+&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;4&lt;/span&gt;][&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;1&lt;/span&gt;])).zfill(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;6&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  		bujur = ((&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;%.2f&lt;/span&gt;&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;&lt;/span&gt;)%&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;float&lt;/span&gt;(baris[i+&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;5&lt;/span&gt;][&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;1&lt;/span&gt;])).zfill(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;6&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  		depth = (&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;%.1f&lt;/span&gt;&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;&lt;/span&gt;)%&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;float&lt;/span&gt;(baris[i+&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;6&lt;/span&gt;][&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;1&lt;/span&gt;])
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  		mag = (&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;%.1f&lt;/span&gt;&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;&lt;/span&gt;)%&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;float&lt;/span&gt;(baris[i+&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;15&lt;/span&gt;][&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;1&lt;/span&gt;])
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  		&lt;span style=&#34;color:#007f7f&#34;&gt;#mag = &amp;#39;0.0&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  		az = (&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;%.2f&lt;/span&gt;&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;&lt;/span&gt;)%&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;float&lt;/span&gt;(baris[i+&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;13&lt;/span&gt;][&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;2&lt;/span&gt;])
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  		unknown = &lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;0.0&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  		rms = (&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;%.3f&lt;/span&gt;&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;&lt;/span&gt;)%&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;float&lt;/span&gt;(baris[i+&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;12&lt;/span&gt;][&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;2&lt;/span&gt;])
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  		time0 = &lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;float&lt;/span&gt;(detik)+&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;float&lt;/span&gt;(menit)*&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;60&lt;/span&gt;+&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;float&lt;/span&gt;(jam)*&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;60&lt;/span&gt;*&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;60&lt;/span&gt;+&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;float&lt;/span&gt;(tanggal)*&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;60&lt;/span&gt;*&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;60&lt;/span&gt;*&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;24&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  		file.write(tahun.rjust(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;5&lt;/span&gt;)+bulan.rjust(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;3&lt;/span&gt;)+tanggal.rjust(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;3&lt;/span&gt;)+jam.rjust(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;3&lt;/span&gt;)+
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  			menit.rjust(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;3&lt;/span&gt;)+detik.rjust(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;5&lt;/span&gt;)+lintang.rjust(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;8&lt;/span&gt;)+bujur.rjust(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;10&lt;/span&gt;)+
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  			depth.rjust(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;9&lt;/span&gt;)+mag.rjust(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;5&lt;/span&gt;)+unknown.rjust(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;6&lt;/span&gt;)+az.rjust(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;9&lt;/span&gt;)+
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  			rms.rjust(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;8&lt;/span&gt;)+&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;str&lt;/span&gt;(event).rjust(&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;10&lt;/span&gt;)+&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;\n&lt;/span&gt;&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  	
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  	i = i+&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  file.close()
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Siapkan file data stasiun &lt;code&gt;Palu_sta.txt&lt;/code&gt; dengan format (nama_stasiun lat lon)&lt;/li&gt;
+&lt;li&gt;Jalankan script &lt;code&gt;Velest.m&lt;/code&gt; pada Matlab.&lt;/li&gt;
+&lt;li&gt;Tunggu beberapa saat mka akan dihasilkan file &lt;code&gt;Palu.cnv&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;catatan&#34;&gt;Catatan&lt;/h2&gt;
+&lt;p&gt;Nama file iput dan output harus di edit atau di sesuaikan dengan nama data anda ( Lihat script dengan text editor)&lt;/p&gt;
+&lt;p&gt;https://github.&lt;/p&gt;
+&lt;h1 id=&#34;running-velest&#34;&gt;Running Velest&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Tahapan ini kita akan belajar cara mengoperasikan program velest.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;file-yang-harus-dipersiapkan&#34;&gt;File yang harus dipersiapkan&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;AK135.mod&lt;/code&gt; berisi nilai kecepatan seismik 1-D sebagai nilai kecepatan awal&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Palu.cnv&lt;/code&gt; berisi nilai travel time observasi hasil konversi pada tahap &lt;a href=&#34;https://github.com/muhajiranshori/Relokasi-Velest/tree/main/%5B2%5D%20Convert%20Data&#34;&gt;sebelumnya&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Palu.sta&lt;/code&gt; berisi data stasiun yang digunakan&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;velest&lt;/code&gt; program velest untuk relokasi hiposenter ( dijalankan under Linux)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;velest.cmn&lt;/code&gt; berisi setting parameter. Nama file input dan output didefinisikan pada file tersebut.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;langkah-langkah-langkah&#34;&gt;Langkah-langkah-langkah&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Siapkan file-file yang telah disebutkan di atas&lt;/li&gt;
+&lt;li&gt;Buka terminal linux lalu masuk ke dalam folder &lt;code&gt;Relokasi-Velest/&amp;quot;[3] Velest&amp;quot;/&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Jalan program &lt;code&gt;velest&lt;/code&gt; dengan perintah&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;
+&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#727272&#34; id=&#34;hl-1-1&#34;&gt;&lt;a style=&#34;outline: none; text-decoration:none; color:inherit&#34; href=&#34;#hl-1-1&#34;&gt;1&lt;/a&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;./velest
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;maka-akan-menghasilkan-file&#34;&gt;maka akan menghasilkan file&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Palu.OUT&lt;/code&gt; berisi hasil keseluruhan dari proses relokasi hiposenter yang dilakukan oleh program &lt;code&gt;velest&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;stacor_Palu.OUT&lt;/code&gt; bersisi nilai stasiun koreksi&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;velout.MOD&lt;/code&gt; berisi nilai kecepatan seimsik 1-D final.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Pindahkan ke-3 file tersebut ke dalam folder &lt;code&gt;Plot Result&lt;/code&gt; untuk tahap plotting.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Berisi tutorial melakukan relokasi hiposenter gempabumi menggunakan software Velest&lt;/p&gt;
+&lt;p&gt;#&lt;img loading=&#34;lazy&#34; src=&#34;https://user-images.githubusercontent.com/28419810/108987074-72b48480-76c5-11eb-9614-93cdd540031c&#34; alt=&#34;Palu_awal&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;#&lt;img loading=&#34;lazy&#34; src=&#34;https://user-images.githubusercontent.com/28419810/108987090-7942fc00-76c5-11eb-9ee7-7d81d968ac46&#34; alt=&#34;Palu_final&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Relokasi Hypodd Part 4: Plot Hasil</title>
+      <link>http://www.galeri-seismologi.com/post/save-part/hypodd/relokasi-hypodd-part4-plot-hasil/</link>
+      <pubDate>Mon, 18 Apr 2022 08:47:28 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/save-part/hypodd/relokasi-hypodd-part4-plot-hasil/</guid>
+      <description>Membahas tutorial relokasi hiposenter menggunakan software HypoDD</description>
+    </item>
+    
+    <item>
+      <title>Relokasi Hypodd Part 3: Running HypoDD</title>
+      <link>http://www.galeri-seismologi.com/post/save-part/hypodd/relokasi-hypodd-part3-running-hypodd/</link>
+      <pubDate>Mon, 18 Apr 2022 08:44:33 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/save-part/hypodd/relokasi-hypodd-part3-running-hypodd/</guid>
+      <description>Running HypoDD  Tahapan ini adalah bagian inti dari relokasi hiposenter dengan Metode Double Difference yaitu running program HypoDD.  File yang harus dipersiapkan file di luar folder  station.dat berisi informasi stasiun yang digunakan. Jatim.pha berisi nilai travel time observasi yang dihasilkan dari tahap convert_data.  file di dalam folder ph2dt  ph2dt.inp berisi setting parameter ph2dt.exe program untuk menghitung bla bla bla  file di dalam folder hypoDD  hypoDD.</description>
+    </item>
+    
+    <item>
+      <title>Relokasi Hypodd Part 2: Convert Data</title>
+      <link>http://www.galeri-seismologi.com/post/save-part/hypodd/relokasi-hypodd-part2-convert-data/</link>
+      <pubDate>Sun, 17 Apr 2022 17:38:33 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/save-part/hypodd/relokasi-hypodd-part2-convert-data/</guid>
+      <description>Convert input data HypoDD Langkah-langkah konversi data input pada hypoDD.
+Langkah-langkah  Siapkan file Jatim.txt. File tersebut adalah hasil filter data sebagaimana dijelaskan langkah-langkahnya berikut Jalankan script cat2pha.py yang akan menghasilkan file Jatim.pha  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61  # jalankan skrip ini dengan komputer yg sudah terinstal python 2.</description>
+    </item>
+    
+    <item>
+      <title>Relokasi HypoDD Part 1: Data Preparation</title>
+      <link>http://www.galeri-seismologi.com/post/save-part/hypodd/relokasi-hypodd-part1-data-preparation/</link>
+      <pubDate>Sun, 17 Apr 2022 17:26:24 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/save-part/hypodd/relokasi-hypodd-part1-data-preparation/</guid>
+      <description>Relokasi-HypoDD Begian ini adalah pendahuluan untuk menampilkan daerah penelitian yaitu daerah Jawa Timur.
+ set path=C:\programs\GMT4\bin;%PATH% set F=Jatim.ps set R=109/116/-11.5/-4 set GU=GU.dat set seis=seis.dat set M=mainshock.dat set GA=GA.dat set ST=station.dat set A=volcano.dat set P=E:/Muhajir/GMT/topo_putih.cpt set NC=E:/Muhajir/GMT/srtm_15_indo.grd set NC1=E:/Muhajir/GMT/srtm_15_indo.grd.int set sesar=E:/Muhajir/GMT/sesar.gmt set sesar2=E:/Muhajir/GMT/sesar2.gmt set sesar=E:/Muhajir/GMT/hajir.gmt set sesar2=E:/Muhajir/GMT/sesar2.gmt set SA=SA.d set SB=SB.d set SC=SC.d set LA=lineA.d set LB=lineB.d set LC=lineC.d set EA1=111.7580000 set EA2=-6.00 set CA1=111.7580000 set CA2=-11.00 set EA=%EA1%/%EA2% set CA=%CA1%/%CA2% set EB1=112.</description>
+    </item>
+    
+    <item>
+      <title>Relokasi HypoDD</title>
+      <link>http://www.galeri-seismologi.com/post/relokasi_hypodd/</link>
+      <pubDate>Sun, 17 Apr 2022 17:21:25 +0700</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/relokasi_hypodd/</guid>
+      <description>Relokasi-HypoDD Begian ini adalah pendahuluan untuk menampilkan daerah penelitian yaitu daerah Jawa Timur.
+ set path=C:\programs\GMT4\bin;%PATH% set F=Jatim.ps set R=109/116/-11.5/-4 set GU=GU.dat set seis=seis.dat set M=mainshock.dat set GA=GA.dat set ST=station.dat set A=volcano.dat set P=E:/Muhajir/GMT/topo_putih.cpt set NC=E:/Muhajir/GMT/srtm_15_indo.grd set NC1=E:/Muhajir/GMT/srtm_15_indo.grd.int set sesar=E:/Muhajir/GMT/sesar.gmt set sesar2=E:/Muhajir/GMT/sesar2.gmt set sesar=E:/Muhajir/GMT/hajir.gmt set sesar2=E:/Muhajir/GMT/sesar2.gmt set SA=SA.d set SB=SB.d set SC=SC.d set LA=lineA.d set LB=lineB.d set LC=lineC.d set EA1=111.7580000 set EA2=-6.00 set CA1=111.7580000 set CA2=-11.00 set EA=%EA1%/%EA2% set CA=%CA1%/%CA2% set EB1=112.</description>
+    </item>
+    
+    <item>
+      <title>Galeri Seismologi</title>
+      <link>http://www.galeri-seismologi.com/about/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/about/</guid>
+      <description>Sebuah media untk saling sharing segala hal tentang seismologi.
+Bukan blog tutorial melainkan sekedar dokumentasi proses belajar yang kami lakukan.
+SEMOGA BERMANFAAT.</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>http://www.galeri-seismologi.com/post/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/goisforlovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>http://www.galeri-seismologi.com/post/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>http://www.galeri-seismologi.com/post/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/post/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    
+    <item>
+      <title>Content</title>
+      <link>http://www.galeri-seismologi.com/content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.galeri-seismologi.com/content/</guid>
+      <description>content</description>
+    </item>
+    
+    
+  </channel>
+</rss>

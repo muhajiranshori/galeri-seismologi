@@ -1,0 +1,120 @@
+ baseURL = "http://www.galeri-seismologi.com/"
+languageCode = "en-us"
+title = "Galeri Seismologi"
+disablePathToLower = false
+themesDir = "themes"
+theme = "PaperMod"
+googleAnalytics = "UA-123-45"
+disqusShortname = "galeri-seismologi"
+paginate = 6
+post = "/:slug/"
+
+[cover]
+image = "https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png"
+alt = "this is a post image"
+caption = "this is the image"
+relative = false
+
+[indexes]
+tag = "tags"
+category = "categories"
+
+[params]
+author = "Me"
+ShowbreadCrumbs = true
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowToc = true
+TocOpen = true
+ShowCodeCopyButtons = true
+
+  [params.homeInfoParams]
+  Title = "Galeri Seismologi"
+  Content = "*Halo semua, Selamat datang di **Galeri Seismologi**, sebuah media untuk saling berbagi dan berdiskusi seputar dunia seismologi. Bagi anda mahasiswa ilmu kebumian, akademisi, praktisi kegempaan atau siapapun yang cinta dengan bidang ini, mari bergabung dan belajar bersama. Catatan-catatan ini saya tulis sebagai sebuah dokumentasi proses belajar yang saya lakukan dan semoga dapat bermanfaat bagi kita semua*"
+
+  [[params.socialIcons]]
+  name = "facebook"
+  url = "https://facebook.com/"
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/"
+
+  [[params.socialIcons]]
+  name = "instagram"
+
+  [[params.socialIcons]]
+  name = "github"
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
+
+  [params.cover]
+  responsiveImages = false
+  LinkFullImages = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[markup.highlight]
+anchorLineNos = true
+codeFences = true
+guessSyntax = true
+lineNos = true
+style = "solarized-light"
+#style = "solarized-light"
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "content"
+name = "Content"
+url = "/content"
+weight = 2
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories"
+weight = 3
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[menu.main]]
+identifier = "galeries"
+name = "Galeries"
+url = "/galeries"
+weight = 5
+
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives"
+weight = 6
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search"
+weight = 7
+
+[[menu.main]]
+identifier = "about"
+name = "About Us"
+url = "/about/"
+weight = 8
