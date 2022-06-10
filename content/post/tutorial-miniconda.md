@@ -15,7 +15,7 @@ tags:
 
 # 1. Pendahuluan
 
-Python adalah bahasa pemrograman yang bisa dikatakan paling pouler saat ini tak terkecali dalam dunia geosains.
+Python adalah bahasa pemrograman yang bisa dikatakan paling populer saat ini tak terkecali dalam dunia geosains.
 
 Perkembangan python ditandai dengan bekembanganya beraneka *package* dan *module* berbasis python yang sangat lengkap.
 

@@ -64,3 +64,78 @@ lalu edit start dan end pada isian time window dengan sebarang waktu asalkan mas
 tercakup dalam waktu beroperasinya stasiun seismik. Pilih Request Type Metadata
 (StationXML) dan Metadata Level Response lalu tekan submit. Buka tab download lalu
 pilih save untuk menyimpan file metadata yang telah kita request
+
+
+Data yang digunakan adalah data arrival time repository gempabumi BMKG tahun 2018 studi kasus gempa Palu Mw 7.1, 28 September 2018.
+
+
+
+# 4. Membuat Grid Node
+
+# 5. Running Simulps12
+
+
+
+
+
+
+
+# 7. Plot Hiposenter Hasil Relokasi
+
+
+Sebuah media untk saling berbagi dan berdiskusi seputar dunia seismologi.
+
+Catatan-catatan ini saya tulis sebagai sebuah dokumentasi proses belajar yang saya lakukan.
+
+Semua konten pada blog ini dapat anda baca, copy, praktekkan 
+
+
+SEMOGA BERMANFAAT. 
+
+Halo semua, ini adalah postingan pertama saya. Selamat datang di Galeri Seismologi, sebuah media untuk saling berbagi dan berdiskusi seputar dunia seismologi.
+
+Bagi anda mahasiswa ilmu kebumian, akademisi, praktisi kegempaan atau siapapun yang cinta dengan bidang ini, mari bergabung dan belajar bersama.
+
+Catatan-catatan ini saya tulis sebagai sebuah dokumentasi proses belajar yang saya lakukan dan semoga dapat bermanfaat bagi kita semua
+
+Salam  
+
+Setiap material, baik tulisan, persamaan matematika dan gambar yang tertera pada blog ini ditujukan untuk keperluan pendidikan semata. 
+Setiap tulisan, persamaan maupun gambar yang diambil dari tempat lain diberikan keterangan autorisasi. 
+Penulis berusaha semaksimal mungkin untuk menghargai hak cipta dari hasil karya orang lain dan berupaya untuk membaca dengan teliti mengenai perjanjian hak cipta. Jika penulis melakukan kekeliruan, dan pemilik hak cipta keberatan, penulis bersedia untuk mencabut gambar, tulisan, maupun persamaan yang tertera dalam blog ini. Karena Blog ini ditujukan untuk keperluan pendidikan, penyalahgunaan selain untuk keperluan pendidikan diluar tanggung jawab pemilik blog. Anda dipersilakan untuk meng-copy, paraphrase dan quote sepanjang mencantumkan sumbernya.
+
+
+Mengapa perlu dilakukan relokasi ? 
+
+Salah satu alasannya adalah seringnya terdapat fix depth pada data.
+
+Berikut saya tunjukkan contoh fix depth pada kegempaan di bawah gunungapi anak krakatau.
+
+
+
+Setelah direlokasi, gempa yang tadinya dominan berada pada kedalaman 10 km menjadi bergeser memebentuk suatu cluster di bawah gunungapi.
+
+Itulah salah satu guna dari relokasi hiposneter.
+
+Lantas bagaimaan cara melakukannya ?
+
+Siapkan kopi, duduk yang manis karena step-nya cukup panjang.
+
+Mari kita mulai.
+
+
+-----------------------
+
+Bagi anda yang ingin menggunakan software ini silakan download secara gratis **disini** dan jangan lupa mensitasi papaer **ini**.
+
+
+
+
+
+
+
+
+
+
+
+

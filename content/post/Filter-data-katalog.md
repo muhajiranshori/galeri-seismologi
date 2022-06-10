@@ -24,6 +24,11 @@ Teknis penggunakan beberapa software yang saya sebutkan tersebut akan kita bahas
 
 Baiklah, kali ini kita akan mencoba praktek bagaimana cara mem-filter katalog **arrival time**. Tahap filter data ini sangat penting sebagai tahap *data preparation* karena bertujuan untuk mempersiapkan data yang spesifik sesuai daerah penelitian yang akan kita kerjakan dengan beberapa kriteria data yang dapat kita atur tentunya.
 
+Jika anda menggunakan data katalog *arrival time* BMKG maka metode ini saya rekomendasikan sebagai tahap **data preparation** dalam praktek relokasi hiposenter menggunakan **[velest]** dan **[hypoDD]** serta tomografi seismik menggunakan **[simulps12]**.
+
+
+
+
 # 2. Data dan Software
 
 ## Data

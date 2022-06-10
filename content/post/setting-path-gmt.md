@@ -1,5 +1,5 @@
 ---
-title: "Setting Path Gmt"
+title: "Setting PATH GMT"
 date: 2020-02-22T17:10:53+07:00
 draft: false
 comments: true
