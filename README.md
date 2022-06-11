@@ -1,0 +1,3 @@
+# galeri-seismologi
+
+Hugo 
