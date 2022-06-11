@@ -2,7 +2,7 @@
 title: "Relokasi HypoDD Part 1 : Persiapan Data"
 date: 2020-09-02T17:21:25+07:00
 draft: false
-toc: true
+toc: false
 comments: true
 categories:
 - earthquake_relocation
@@ -15,7 +15,29 @@ tags:
 
 # 1. Pendahuluan
 
+Sebagai pengamat gempa yang dalam setiap tugas dituntuk untuk menentukan lokasi hiposenter secara cepat, acap kali banyak posisi hiposenter gempa kita masih kurang tepat (misal masih banyak terdapat fix depth) sehingga disinilah pentingnya proses relokasi gempa.
+
+Dengan melakukan relokasi kita berharap hiposenter dapat bergeser pada posisi terbaiknya yang lebih *make sense* secara geologi sehingga lebih mudah diinterpretasi terkait kondisi seismotektoniknya.
+
+Saya akan tunjukkan contoh fix depth pada data katalog berikut perubahannya setelah dilakukan relokasi.
+
+
+**Sebelum Relokasi**
+![Krakatau_Before](/img/hypoDD/krakatau_before.png)
+*Seismisitas di bawah gunungapi Anak Krakatau **sebelum** relokasi hiposenter* ([sumber](http://stageof.tretes.bmkg.go.id/artikel-kondisi-kegempaan-di-bawah-gunung-api-anak-krakatau-periode-tahun-2009-2017--berdasarkan-hasil-relokasi-hiposenter-7))
+
+
+**Setelah Relokasi**
+![Krakatau_After](/img/hypoDD/krakatau_after.png)
+*Seismisitas di bawah gunungapi Anak Krakatau **sesudah** relokasi hiposenter* ([sumber](http://stageof.tretes.bmkg.go.id/artikel-kondisi-kegempaan-di-bawah-gunung-api-anak-krakatau-periode-tahun-2009-2017--berdasarkan-hasil-relokasi-hiposenter-7))
+
+Nah kali ini kita akan praktek melakukan relokasi hiposenter menggunakan program hypoDD. 
+
+Apa saja alat dan bahan yang harus dipersiapkan serta bagaimana langkah kerjanya ? Mari kita simak. 
+
 # 2. Struktur Folder Kerja
+
+Sebelum memulai tutorial download terlebih dahulu [folder_hypoDD] yang memiliki struktur sebagai berikut.
 
 	(base) muhajir@galeri-seismologi:/mnt/e/GALERI_SEISMOLOGI/Relokasi-HypoDD$ tree
 	.
@@ -48,23 +70,6 @@ tags:
 	│   │   ├── hypoDD.inp
 	│   │   ├── hypoDD.loc
 	│   │   ├── hypoDD.log
-	│   │   ├── hypoDD.reloc
-	│   │   ├── hypoDD.reloc.001.001
-	│   │   ├── hypoDD.reloc.001.002
-	│   │   ├── hypoDD.reloc.001.003
-	│   │   ├── hypoDD.reloc.001.004
-	│   │   ├── hypoDD.reloc.001.005
-	│   │   ├── hypoDD.reloc.001.006
-	│   │   ├── hypoDD.reloc.001.007
-	│   │   ├── hypoDD.reloc.001.008
-	│   │   ├── hypoDD.reloc.001.009
-	│   │   ├── hypoDD.reloc.001.010
-	│   │   ├── hypoDD.reloc.001.011
-	│   │   ├── hypoDD.reloc.001.012
-	│   │   ├── hypoDD.reloc.001.013
-	│   │   ├── hypoDD.reloc.001.014
-	│   │   ├── hypoDD.reloc.001.015
-	│   │   ├── hypoDD.reloc.001.016
 	│   │   ├── hypoDD.res
 	│   │   ├── hypoDD.sta
 	│   │   └── station.dat

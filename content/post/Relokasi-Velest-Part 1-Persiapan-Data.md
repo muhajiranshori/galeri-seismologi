@@ -17,10 +17,6 @@ tags:
 # 1. Pendahuluan
 Velest adalah program yang dibuat oleh Evan dkk. (1994) yang berguna untuk me-relokasi hiposenter serta mementukan model kecepatan seismik 1-dimensi. Prinsip atau teori yang mendasari program ini dapat dipelajari **disini**.
 
-Sebagai pengamat gempa yang dalam setiap tugas dituntuk untuk menentukan lokasi hiposenter secara cepat, acap kali banyak posisi hiposenter gempa kita masih kurang tepat (misal masih banyak terdapat fix depth) sehingga disinilah pentingnya proses relokasi gempa.
-
-Dengan melakukan relokasi kita berharap hiposenter dapat bergeser pada posisi terbaiknya yang lebih *make sense* secara geologi sehingga lebih mudah diinterpretasi terkait kondisi seismotektoniknya.
-
 Baiklah langsung saja, kali ini kita akan mencoba menerapkan software velest untuk me-relokasi hiposenter gempa Palu yang terjadi pada 28 September 2018 dengan Mw 7.1. Kita tahu bahwa gempa dahsyat tersebut   menimbulkan tsunami dan liquifaksi yang menlan ribuan korban jiwa.  
 
 **Daerah penelitian**
