@@ -13,6 +13,75 @@ tags:
 - GMT
 ---
 
+
+#  Running HypoDD
+ - Tahapan ini adalah bagian inti dari relokasi hiposenter dengan Metode Double Difference yaitu running program HypoDD.
+ 
+# File yang harus dipersiapkan
+
+## file di luar folder
+ - `station.dat` berisi informasi stasiun yang digunakan.
+ - `Jatim.pha`  berisi nilai travel time observasi yang dihasilkan dari tahap [convert_data](https://github.com/muhajiranshori/Relokasi-HypoDD/tree/main/%5B2%5D%20Convert%20Data).
+
+## file di dalam folder `ph2dt`
+ - `ph2dt.inp` berisi setting parameter
+ - `ph2dt.exe` program untuk menghitung bla bla bla
+
+## file di dalam folder `hypoDD`
+ - `hypoDD.inp` berisi setting parameter
+ - `station.dat` berisi informasi stasiun yang digunakan.
+ - `event.dat`, `event.sel` dan `dt.ct` merupakan file output dari program `ph2dt.exe` yanng menjadi input pada program `hypoDD.exe` 
+ - `hypoDD.exe` program untuk menghitung melakukan relokasi double difference
+
+# Langkah-langkah-langkah
+
+1. Siapkan file-file yang telah disebutkan di atas
+2. Buka terminal cygwin lalu masuk ke dalam folder `HypoDD/ph2dt/`
+3. Jalan program `ph2dt.exe` dengan perintah 
+
+  ```
+  ./ph2dt.exe ph2dt.inp`
+  ```
+
+## maka akan menghasilkan file  
+
+ - `event.dat` berisi daftar event yang digunakan dalam penelitian.
+ - `event.sel` berisi daftar event yang memenuhi kriteria pada setting parameter `ph2dt.inp`
+ - `dt.ct` berisi nilai travel time relatif antara pasangan event.
+
+4. Pindahkan ke-3 file tersebut ke dalam folder `HypoDD`
+5. Ubah direktori kerja terminal cygwin ke dalam folder `HypoDD`
+6. Jalan program `hypoDD.exe` dengan perintah 
+
+  ```
+  ./hypoDD.exe`
+  ```
+
+## maka akan menghasilkan file  
+
+ - `hypoDD.reloc.001` `hypoDD.reloc.001.002` `hypoDD.reloc.00n` bersisi parameter hiposenter hasil relokasi setep 1, 2 hingga step `n`
+ - `hypoDD.reloc` berisi parameter final hasil relokasi
+ - `hypoDD.sta` berisi koordinat stasiun yang digunakan dalam relokasi
+ - `hypoDD.res` berisi nilai residuals
+
+7. Pindahkan file `hypoDD.reloc` ke dalam folder `Plot Result` untuk tahap plotting 
+
+Membahas tutorial relokasi hiposenter menggunakan software HypoDD
+
+![Jatim_Katalog](https://user-images.githubusercontent.com/28419810/109119463-4eb17b80-7777-11eb-8f71-e1040d73c98c.png)
+
+![Jatim_hypoDD_reloc](https://user-images.githubusercontent.com/28419810/109119484-583ae380-7777-11eb-910a-40dd0ed268a3.png)
+
+![relokasi_jawa_timur](/img/Jatim_HypoDD_akhir.png)
+
+
+
+
+
+
+
+
+
 `ph2dt.inp`
 
 	* ph2dt.inp - input control file for program ph2dt
