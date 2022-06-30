@@ -1,6 +1,6 @@
 ---
 title: "Relokasi Velest Part 5 Plot Residuals"
-date: 2020-08-20T11:21:40+07:00
+date: 2021-04-20T11:21:40+07:00
 draft: false
 toc: true
 comments: true

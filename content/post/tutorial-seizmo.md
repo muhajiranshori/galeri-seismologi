@@ -1,6 +1,6 @@
 ---
 title: "Tutorial Seizmo"
-date: 2021-12-18T17:30:56+07:00
+date: 2020-11-18T17:30:56+07:00
 draft: false
 toc: true
 comments: true

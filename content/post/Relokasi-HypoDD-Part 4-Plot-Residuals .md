@@ -1,6 +1,6 @@
 ---
 title: "Relokasi HypoDD Pat 4 - Plotting Residuals"
-date: 2020-09-20T17:21:25+07:00
+date: 2021-03-20T17:21:25+07:00
 draft: false
 toc: true
 comments: true

@@ -1,6 +1,6 @@
 ---
 title: "Hasil Relokasi Hiposenter Wilayah Jawa Timur Menggunakan HypoDD"
-date: 2020-09-22T10:34:55+07:00
+date: 2021-03-22T10:34:55+07:00
 draft: false
 comments: true
 categories:

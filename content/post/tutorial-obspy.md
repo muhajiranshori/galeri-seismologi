@@ -1,7 +1,7 @@
 ---
 title: "Tutorial Obspy"
-date: 2021-04-12T14:43:00+07:00
-draft: true
+date: 2020-12-12T14:43:00+07:00
+draft: false
 toc: true
 comments: true
 categories:

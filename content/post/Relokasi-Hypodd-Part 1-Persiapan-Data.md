@@ -1,6 +1,6 @@
 ---
 title: "Relokasi HypoDD Part 1 : Persiapan Data"
-date: 2020-09-02T17:21:25+07:00
+date: 2021-03-02T17:21:25+07:00
 draft: false
 toc: false
 comments: true

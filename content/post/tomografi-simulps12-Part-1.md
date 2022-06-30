@@ -1,6 +1,6 @@
 ---
 title: "Tomografi Simulps12 Part 1 : Persiapan Data"
-date: 2021-03-02T17:14:18+07:00
+date: 2021-05-02T17:14:18+07:00
 draft: false
 toc: true
 comments: true

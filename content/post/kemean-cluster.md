@@ -1,6 +1,6 @@
 ---
-title: "Kemean Cluster"
-date: 2022-05-27T04:23:24+07:00
+title: "K-mean Cluster"
+date: 2021-07-27T04:23:24+07:00
 draft: false
 comments: true
 categories:

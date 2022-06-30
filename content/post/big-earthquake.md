@@ -1,6 +1,6 @@
 ---
 title: "Big Earthquake"
-date: 2022-05-28T06:38:53+07:00
+date: 2022-03-28T06:38:53+07:00
 draft: false
 comments: true
 categories:

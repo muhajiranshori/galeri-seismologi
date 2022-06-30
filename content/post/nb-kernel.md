@@ -1,6 +1,6 @@
 ---
 title: "nb_conda_kernels"
-date: 2020-01-05T09:21:17+07:00
+date: 2020-02-07T09:21:17+07:00
 draft : false
 toc: true
 comments: true

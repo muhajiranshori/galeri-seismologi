@@ -1,6 +1,6 @@
 ---
 title: "Membuat Dataset FM Net"
-date: 2022-05-31T16:01:45+07:00
+date: 2021-09-25T16:01:45+07:00
 draft: false
 toc: true
 comments: true

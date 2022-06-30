@@ -1,6 +1,6 @@
 ---
 title: "Tomografi Simulps12 Part 10 Plotting Tomogram Berdasarkan Daerah Teresolusi"
-date: 2021-03-25T16:29:17+07:00
+date: 2021-05-25T16:29:17+07:00
 draft: false
 toc: true
 comments: true

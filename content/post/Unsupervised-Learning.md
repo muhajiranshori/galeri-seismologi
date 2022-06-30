@@ -1,7 +1,7 @@
 ---
 title: "Unsupervised Learning"
-date: 2022-05-16T05:04:24+07:00
-draft: true
+date: 2021-07-16T05:04:24+07:00
+draft: false
 ---
 
 # 1. Pendahuluan

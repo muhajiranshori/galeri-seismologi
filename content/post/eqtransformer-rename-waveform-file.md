@@ -1,7 +1,7 @@
 ---
 title: "Eqtransformer Rename Waveform File"
-date: 2022-04-28T17:12:00+07:00
-draft: true
+date: 2021-08-20T17:12:00+07:00
+draft: false
 ---
 
 tahap ini merupakan tahap penting dalam persiapan data waveform.

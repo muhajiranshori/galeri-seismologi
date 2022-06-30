@@ -1,6 +1,6 @@
 ---
 title: "Tutorial Picking"
-date: 2022-04-28T17:09:46+07:00
+date: 2020-06-14T17:09:46+07:00
 draft: false
 ---
 

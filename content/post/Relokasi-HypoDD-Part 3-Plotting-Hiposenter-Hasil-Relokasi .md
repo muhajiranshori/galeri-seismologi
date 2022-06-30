@@ -1,6 +1,6 @@
 ---
 title: "Relokasi HypoDD Part 3 Plotting Hiposenter Hasil Relokasi"
-date: 2020-09-18T16:27:27+07:00
+date: 2021-03-18T16:27:27+07:00
 draft: false
 toc: true
 comments: true

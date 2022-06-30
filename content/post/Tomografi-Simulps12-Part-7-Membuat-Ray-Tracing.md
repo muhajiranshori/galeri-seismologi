@@ -1,6 +1,6 @@
 ---
 title: "Tomografi Simulps12 Part 7 Membuat Ray Tracing"
-date: 2021-03-14T16:28:13+07:00
+date: 2021-05-14T16:28:13+07:00
 draft: false
 toc: true
 comments: true

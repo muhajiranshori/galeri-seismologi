@@ -1,6 +1,6 @@
 ---
 title: "Relokasi Velest Part 3 Plot Hiposenter Hasil Relokasi"
-date: 2020-08-12T11:21:40+07:00
+date: 2021-04-12T11:21:40+07:00
 draft: false
 toc: true
 comments: true

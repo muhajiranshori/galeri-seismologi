@@ -1,6 +1,6 @@
 ---
 title: "Relokasi Velest Part 1 Persiapan Data"
-date: 2020-08-08T08:51:33+07:00
+date: 2021-04-08T08:51:33+07:00
 draft: false
 toc: true
 comments: true

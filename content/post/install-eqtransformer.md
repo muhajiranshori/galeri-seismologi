@@ -1,6 +1,6 @@
 ---
 title: "Install Eqtransformer"
-date: 2022-06-01T08:08:42+07:00
+date: 2021-08-01T08:08:42+07:00
 draft: false
 comments: true
 categories:

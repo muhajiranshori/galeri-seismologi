@@ -1,6 +1,6 @@
 ---
 title: "Filter Data Katalog"
-date: 2020-07-25T08:25:50+07:00
+date: 2020-03-07T08:25:50+07:00
 draft: false
 toc: true
 comments: true

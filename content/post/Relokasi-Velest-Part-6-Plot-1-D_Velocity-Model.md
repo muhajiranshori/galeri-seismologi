@@ -1,6 +1,6 @@
 ---
 title: "Relokasi Velest Part 6 Plot 1-D Velocity Model"
-date: 2020-08-27T11:21:40+07:00
+date: 2021-04-27T11:21:40+07:00
 draft: false
 toc: true
 comments: true

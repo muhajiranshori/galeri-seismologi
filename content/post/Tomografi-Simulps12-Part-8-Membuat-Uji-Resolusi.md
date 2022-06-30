@@ -1,6 +1,6 @@
 ---
 title: "Tomografi Simulps12 Part 8 Membuat Uji Resolusi"
-date: 2021-03-18T16:28:36+07:00
+date: 2021-05-18T16:28:36+07:00
 draft: false
 toc: true
 comments: true

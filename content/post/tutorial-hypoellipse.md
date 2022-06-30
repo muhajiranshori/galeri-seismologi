@@ -1,7 +1,7 @@
 ---
 title: "Tutorial Hypoellipse"
-date: 2021-05-23T14:46:52+07:00
-draft: true
+date: 2021-01-23T14:46:52+07:00
+draft: false
 toc: true
 comments: true
 categories:

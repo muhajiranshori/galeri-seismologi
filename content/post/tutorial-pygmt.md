@@ -1,6 +1,6 @@
 ---
 title: "Tutorial pyGMT"
-date: 2021-09-19T17:30:16+07:00
+date: 2020-08-19T17:30:16+07:00
 draft: false
 toc: true
 comments: true

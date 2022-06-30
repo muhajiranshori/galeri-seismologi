@@ -1,7 +1,7 @@
 ---
 title: "Tutorial mseed2sac"
-date: 2021-10-18T19:30:56+07:00
-draft: true
+date: 2020-05-21T19:30:56+07:00
+draft: false
 toc: true
 comments: true
 categories:

@@ -301,6 +301,6 @@ set path=C:\programs\GMT4\bin;%PATH%
 3. [HypoDD](https://github.com/muhajiranshori/Relokasi-HypoDD/tree/main/%5B3%5D%20HYPODD) berisi tentang cara menjalankan program `HypoDD`
 4. [Plot Hasil](https://github.com/muhajiranshori/Relokasi-HypoDD/tree/main/%5B4%5D%20Plot%20Result) berisi tentang cara melakukan plotting hiposenter hasil relokasi 
 
-
+Untuk dapat menjalankan tutorial ini dengan baik maka persiapkan dan install terlebih dahulu beberapa software pendukung.
 
 

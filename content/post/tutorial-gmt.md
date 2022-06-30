@@ -1,6 +1,6 @@
 ---
 title: "Tutorial Generic Mapping Tool (GMT)"
-date: 2020-02-20T15:00:54+07:00
+date: 2020-07-20T15:00:54+07:00
 draft: false
 toc: true
 comments: true

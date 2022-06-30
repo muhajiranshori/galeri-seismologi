@@ -1,7 +1,7 @@
 ---
 title: "Tutorial EQTransformer"
-date: 2022-02-18T13:30:56+07:00
-draft: true
+date: 2021-08-10T13:30:56+07:00
+draft: false
 toc: true
 comments: true
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "Moment Yagi"
-date: 2022-06-01T09:40:58+07:00
-draft: true
+date: 2021-12-01T09:40:58+07:00
+draft: false
 toc: true
 comments: true
 categories:

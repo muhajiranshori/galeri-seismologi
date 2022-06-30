@@ -1,6 +1,6 @@
 ---
 title: "Relokasi Velest Part 2 Running Velest"
-date: 2020-08-10T11:21:40+07:00
+date: 2021-04-10T11:21:40+07:00
 draft: false
 toc: true
 comments: true

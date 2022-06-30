@@ -1,7 +1,7 @@
 ---
 title: "Install Hypoellipse"
-date: 2021-05-20T14:46:52+07:00
-draft: true
+date: 2021-01-20T14:46:52+07:00
+draft: false
 toc: true
 comments: true
 categories:
@@ -11,7 +11,7 @@ tags:
 - windows
 
 ---
- Hypoellipse adalah program untuk menentukan ...
+ Hypoellipse adalah program untuk menentukan hiposenter gempabumi beerdasarkan input data picking. 
 
 
 
